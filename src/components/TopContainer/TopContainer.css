@@ -1,0 +1,7 @@
+.topContainer {
+    background:  linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.8)) ,url(/src/assets/bgcontainerimg.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+    background-position: center;
+}

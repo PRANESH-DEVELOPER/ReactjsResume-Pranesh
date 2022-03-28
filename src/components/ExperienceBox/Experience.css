@@ -1,0 +1,23 @@
+.experience {
+    display: flex;
+    flex-direction: column;
+    border: 2px dotted white;
+    border-radius: 10px;
+    width: 200px;
+    height:150px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    overflow: hidden;
+}
+.experience > p{
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+.experience:hover{
+    background-color: orange;
+    color: black;
+    border:2px solid orangered;
+   transform: scale(1.05);
+}

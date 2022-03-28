@@ -1,0 +1,23 @@
+.SkillContainer{
+    margin: 100px 100px;
+    color: white;
+   
+}
+.skillContainer__text > h4 {
+    margin-bottom: 30px;
+}
+.skillContainer__slider{
+    margin-bottom: 20px;
+}
+.skillContainer__skillSet > h5:hover{
+    color: orange !important;
+    cursor: pointer;
+}
+.skillContainer__text > h4{
+    color: orange !important;
+}
+.skillContainer__text > h4:hover{
+    color: white !important;
+    text-decoration: underline;
+    cursor: pointer;
+}

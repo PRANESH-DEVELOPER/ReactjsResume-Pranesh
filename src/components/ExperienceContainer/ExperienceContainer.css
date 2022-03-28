@@ -1,0 +1,22 @@
+.experienceContainer{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 0;
+}
+.experienceContainer > h1{
+    padding-bottom: 30px;
+}
+.experienceContainer__info{
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.9)),url(https://img.freepik.com/free-vector/freelance-banner-with-man-work-laptop_107791-7058.jpg?t=st=1648431571~exp=1648432171~hmac=10391139365750a3115d6cae5fd633baf65ca7d0e07d24f7aacb2acab8bff2c3&w=1060);
+    background-position: center;
+    background-size: cover;
+    height: 300px;
+    z-index: 1000;
+    width: 80vw;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
